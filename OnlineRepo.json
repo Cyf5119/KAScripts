@@ -147,5 +147,16 @@
     "Author": "Cyf5119",
     "TerritoryIds": [1231],
     "DownloadUrl": "https://raw.githubusercontent.com/cyf5119/KAScripts/main/07-Dawntrail/M4n.cs"
+  },
+  {
+    "Name": "M12S本体四运粗绘",
+    "Guid": "C83916CE-5BBD-9326-4F44-47FD7CD930B8",
+    "Version": "0.0.0.1",
+    "Author": "Cyf5119",
+    "Repo": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/cyf5119/KAScripts/main/07-Dawntrail/M12SP2S4.cs",
+    "Note": "M12S本体四运粗绘，详细画图请等灵视，首周加油。",
+    "UpdateInfo": "空",
+    "TerritoryIds": [1327]
   }
 ]
